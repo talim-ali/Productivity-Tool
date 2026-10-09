@@ -1,0 +1,13 @@
+﻿# Java compiled files
+*.class
+
+# Build output
+out/
+bin/
+target/
+
+# IDE files
+.idea/
+
+# Private database configuration
+src/util/db.properties
